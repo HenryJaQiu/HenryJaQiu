@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HenryJaQiu
-- 👀 I’m interested in computer science, artificial intelligence, game design, sports.
-- 🌱 I’m currently doing PhD candidate in Computer Science & Operations Research.
-- 💞️ I’m looking to collaborate on Research/Develop position.
+- 👀 I’m interested in computer science, artificial intelligence, game design, and sports.
+- 🌱 I’m a Ph.D. in Computer Science & Operations Research, focusing on Machine Learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on related Research/Development positions.
 - 📫 How to reach me hejia.qiu@outlook.com & https://henryjaqiu.github.io/.
 
 <!---
